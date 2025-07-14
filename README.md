@@ -33,7 +33,7 @@
 
 ## 📫 Liên hệ và kết nối
 
-- 📧 Email: truongdevs@gmail.com
+- 📧 Email: truongtn.dev@gmail.com
 - 🌐 Website: [https://www.truongdevs.com](https://www.truongdevs.com)
 - 📘 Facebook Page: [fb.com/truongdevs](https://www.facebook.com/truongdevs)
 - 💬 Bình luận ngay tại mỗi bài viết hoặc gửi tin nhắn qua fanpage.
